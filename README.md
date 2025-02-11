@@ -10,7 +10,7 @@
 | Week-0 | Getting started with programming | - | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/1_Basics_GettingStartedWithProgramming.ipynb) | - |
 | Week-1 | Python programming | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming.ipynb) | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming_Takehome.ipynb) | - |
 | Week-2 | Ethics of ML | [Classroom]() | [Take-home]() | - |
-| Week-3 | Basics Project | - | - | [Project]() |
+| Week-3 | Python Project | - | - | [Project]() |
 
 
 ### Part 2: Getting started with Data Science
