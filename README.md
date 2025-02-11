@@ -26,4 +26,4 @@
 |----|----|----|----|----|
 | Week-7 | Computer Vision - Classification | [Classroom]() | [Take-home]() | - |
 | Week-8 | Computer Vision - Object Detection | [Classroom]() | [Take-home]() | - |
-| Final Project | Assistive vision |  |  | [Project]() |
+| Final Project | Assistive vision | - | - | [Project]() |
