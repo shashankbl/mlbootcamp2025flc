@@ -27,3 +27,7 @@
 | Week-7 | Computer Vision - Classification | [Classroom]() | [Take-home]() | - |
 | Week-8 | Computer Vision - Object Detection | [Classroom]() | [Take-home]() | - |
 | Final Project | Assistive vision | - | - | [Project]() |
+
+
+Additional resources for the serious learner (work-in-progress):
+https://github.com/shashankbl/mlbootcamp2025flc/blob/main/Additional_Resources_For_the_Serious_Learner.ipynb
