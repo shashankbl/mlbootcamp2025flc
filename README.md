@@ -31,3 +31,5 @@
 
 Additional resources for the serious learner (work-in-progress):
 https://github.com/shashankbl/mlbootcamp2025flc/blob/main/Additional_Resources_For_the_Serious_Learner.ipynb
+
+[Course website](https://sites.google.com/view/mlbootcamp2025flc)
