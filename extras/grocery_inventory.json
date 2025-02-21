@@ -1,1 +1,20 @@
-
+[
+  {
+    "item": "tomato",
+    "quantity": 100,
+    "unit_cost": 0.1,
+    "max_quantity": 20
+  },
+  {
+    "item": "apple",
+    "quantity": 54,
+    "unit_cost": 0.25,
+    "max_quantity": 5
+  },
+  {
+    "item": "oranges",
+    "quantity": 40,
+    "unit_cost": 0.05,
+    "max_quantity": 10
+  }
+]
