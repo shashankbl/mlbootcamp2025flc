@@ -1,20 +1,121 @@
 [
   {
     "item": "tomato",
+    "type": "fruit",
     "quantity": 100,
     "unit_cost": 0.1,
     "max_quantity": 20
   },
   {
     "item": "apple",
+    "type": "fruit",
     "quantity": 54,
     "unit_cost": 0.25,
     "max_quantity": 5
   },
   {
     "item": "oranges",
+    "type": "fruit",
     "quantity": 40,
     "unit_cost": 0.05,
     "max_quantity": 10
+  },
+  {
+    "item": "strawberry",
+    "type": "fruit",
+    "quantity": 430,
+    "unit_cost": 0.08,
+    "max_quantity": 25
+  },
+  {
+    "item": "onion",
+    "type": "vegetable",
+    "quantity": 254,
+    "unit_cost": 0.2,
+    "max_quantity": 8
+  },
+  {
+    "item": "carrot",
+    "type": "vegetable",
+    "quantity": 204,
+    "unit_cost": 0.05,
+    "max_quantity": 25
+  },
+  {
+    "item": "pepper",
+    "type": "vegetable",
+    "quantity": 540,
+    "unit_cost": 0.1,
+    "max_quantity": 15
+  },
+  {
+    "item": "eggplant",
+    "type": "vegetable",
+    "quantity": 50,
+    "unit_cost": 0.3,
+    "max_quantity": 5
+  },
+  {
+    "item": "broccoli",
+    "type": "vegetable",
+    "quantity": 67,
+    "unit_cost": 2.5,
+    "max_quantity": 2
+  },
+  {
+    "item": "beans",
+    "type": "vegetable",
+    "quantity": 35,
+    "unit_cost": 2.0,
+    "max_quantity": 3
+  },
+  {
+    "item": "milk",
+    "type": "dairy",
+    "quantity": 54,
+    "unit_cost": 3.5,
+    "max_quantity": 3
+  },
+  {
+    "item": "yogurt",
+    "type": "dairy",
+    "quantity": 60,
+    "unit_cost": 5.0,
+    "max_quantity": 5
+  },
+  {
+    "item": "cheese",
+    "type": "dairy",
+    "quantity": 85,
+    "unit_cost": 3.0,
+    "max_quantity": 3
+  },
+  {
+    "item": "icecream",
+    "type": "dessert",
+    "quantity": 150,
+    "unit_cost": 2.0,
+    "max_quantity": 10
+  },
+  {
+    "item": "froyo",
+    "type": "dessert",
+    "quantity": 70,
+    "unit_cost": 1.5,
+    "max_quantity": 5
+  },
+  {
+    "item": "soda",
+    "type": "beverages",
+    "quantity": 240,
+    "unit_cost": 1.75,
+    "max_quantity": 24
+  },
+  {
+    "item": "sparkling_water",
+    "type": "beverages",
+    "quantity": 286,
+    "unit_cost": 1.5,
+    "max_quantity": 12
   }
 ]
