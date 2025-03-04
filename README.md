@@ -7,9 +7,9 @@
 ### Part 1: Basics of Python Programming
 | Week | Lessons | Classroom | Take-home | Project |
 |----|----|----|----|----|
-| Week-0 | Getting started | - | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/1_Basics_GettingStartedWithProgramming.ipynb) | - |
-| Week-1 | Python programming | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming.ipynb) | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming_Takehome.ipynb) | - |
-| Week-2 | Python Project | - | - | [Project](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/3_Basics_PythonProject.ipynb) |
+| Week-1 | Getting started | - | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/1_Basics_GettingStartedWithProgramming.ipynb) | - |
+| Week-2 | Python programming | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming.ipynb) | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming_Takehome.ipynb) | - |
+| Week-3 | Python Project | - | - | [Project](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/3_Basics_PythonProject.ipynb) |
 
 
 ### Part 2: Traditional Machine Learning
