@@ -16,16 +16,16 @@
 | Week | Lessons | Classroom | Take-home | Project |
 |----|----|----|----|----|
 | Week-4 | Data Science | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/4_DataScience_Intro.ipynb) | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/4_DataScience_TakeHome.ipynb) | - |
-| Week-2 | Ethics of Data Science & Machine Learning | [Classroom]() | [Take-home]() | - |
-| Week-5 | Traditional Machine Learning | [Classroom]() | [Take-home]() | - |
-| Week-6 | Mini Project | - | - | [Project]() |
+| Week-5 | Ethics of Data Science & Machine Learning | [Classroom]() | [Take-home]() | - |
+| Week-6 | Traditional Machine Learning | [Classroom]() | [Take-home]() | - |
+| Week-7 | Mini Project | - | - | [Project]() |
 
 
 ### Part 3: Advanced Machine Learning (aka Deep Learning)
 | Week | Lessons | Classroom | Take-home | Project |
 |----|----|----|----|----|
-| Week-7 | Getting started with Deep Neural Networks | [Classroom]() | [Take-home]() | - |
-| Week-8 | More Deep Neural Networks | [Classroom]() | [Take-home]() | - |
+| Week-8 | Getting started with Deep Neural Networks | [Classroom]() | [Take-home]() | - |
+| Week-9 | More Deep Neural Networks | [Classroom]() | [Take-home]() | - |
 | Final Project | TBA | - | - | [Project]() |
 
 
