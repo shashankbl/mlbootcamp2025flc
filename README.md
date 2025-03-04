@@ -9,13 +9,13 @@
 |----|----|----|----|----|
 | Week-0 | Getting started | - | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/1_Basics_GettingStartedWithProgramming.ipynb) | - |
 | Week-1 | Python programming | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming.ipynb) | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/2_Basics_PythonProgramming_Takehome.ipynb) | - |
-| Week-2 | Python Project | - | - | [Project]() |
+| Week-2 | Python Project | - | - | [Project](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/3_Basics_PythonProject.ipynb) |
 
 
 ### Part 2: Traditional Machine Learning
 | Week | Lessons | Classroom | Take-home | Project |
 |----|----|----|----|----|
-| Week-4 | Data Science | [Classroom]() | [Take-home]() | - |
+| Week-4 | Data Science | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/4_DataScience_Intro.ipynb) | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/4_DataScience_TakeHome.ipynb) | - |
 | Week-2 | Ethics of Data Science & Machine Learning | [Classroom]() | [Take-home]() | - |
 | Week-5 | Traditional Machine Learning | [Classroom]() | [Take-home]() | - |
 | Week-6 | Mini Project | - | - | [Project]() |
