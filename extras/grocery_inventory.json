@@ -2,21 +2,21 @@
   {
     "item": "tomato",
     "category": "vegetable",
-    "quantity": 100,
+    "quantity": 1000,
     "unit_cost": 0.1,
     "max_quantity": 10
   },
   {
     "item": "apple",
     "category": "fruit",
-    "quantity": 54,
+    "quantity": 504,
     "unit_cost": 0.25,
     "max_quantity": 5
   },
   {
     "item": "oranges",
     "category": "fruit",
-    "quantity": 40,
+    "quantity": 400,
     "unit_cost": 0.05,
     "max_quantity": 10
   },
@@ -51,42 +51,42 @@
   {
     "item": "eggplant",
     "category": "vegetable",
-    "quantity": 50,
+    "quantity": 150,
     "unit_cost": 0.3,
     "max_quantity": 5
   },
   {
     "item": "broccoli",
     "category": "vegetable",
-    "quantity": 67,
+    "quantity": 167,
     "unit_cost": 2.5,
     "max_quantity": 2
   },
   {
     "item": "beans",
     "category": "vegetable",
-    "quantity": 35,
+    "quantity": 135,
     "unit_cost": 2.0,
     "max_quantity": 3
   },
   {
     "item": "milk",
     "category": "dairy",
-    "quantity": 54,
+    "quantity": 254,
     "unit_cost": 3.5,
     "max_quantity": 3
   },
   {
     "item": "yogurt",
     "category": "dairy",
-    "quantity": 60,
+    "quantity": 160,
     "unit_cost": 5.0,
     "max_quantity": 5
   },
   {
     "item": "cheese",
     "category": "dairy",
-    "quantity": 85,
+    "quantity": 285,
     "unit_cost": 3.0,
     "max_quantity": 3
   },
@@ -100,7 +100,7 @@
   {
     "item": "mochi",
     "category": "dessert",
-    "quantity": 70,
+    "quantity": 170,
     "unit_cost": 1.5,
     "max_quantity": 5
   },
