@@ -3,203 +3,203 @@
     "id": "0001",
     "customer": "bob",
     "date": [2025,1,10],
-    "quantities": { "apple": 6, "milk": 2},
+    "quantities": {"apple": 6, "milk": 2, "orange":10},
     "transaction_duration": "12.5"
   },
   {
     "id": "0002",
     "customer": "martha",
     "date": [2025,1,10],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"strawberry": 16, "milk": 3},
+    "transaction_duration": "2.5"
   },
   {
     "id": "0003",
     "customer": "zed",
     "date": [2025,1,10],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"milk": 6, "yogurt": 4, "mochi": 5},
+    "transaction_duration": "4"
   },
   {
     "id": "0004",
     "customer": "frank",
     "date": [2025,1,10],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"onion": 10, "carrot": 13, "milk": 3, "strawberry": 12},
+    "transaction_duration": "6.5"
   },
   {
     "id": "0005",
     "customer": "bob",
     "date": [2025,1,10],
-    "quantities": { "apple": 6, "milk": 2},
+    "quantities": {"onion": 20, "carrot": 8, "milk": 1, "strawberry": 18},
     "transaction_duration": "12.5"
   },
   {
     "id": "0006",
     "customer": "suzy",
     "date": [2025,1,10],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"eggplant": 6, "apple": 2},
+    "transaction_duration": "10.5"
   },
   {
     "id": "0007",
     "customer": "mia",
     "date": [2025,1,11],
-    "quantities": { "apple": 6, "milk": 2},
+    "quantities": {"apple": 6, "milk": 2, "beans": 12, "mochi": 4},
     "transaction_duration": "12.5"
   },
   {
     "id": "0008",
     "customer": "mick",
     "date": [2025,1,11],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"cheese": 8, "mochi": 4},
+    "transaction_duration": "4.5"
   },
   {
     "id": "0009",
     "customer": "bruce",
     "date": [2025,1,11],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"apple": 8, "milk": 1, "eggplant": 4},
+    "transaction_duration": "3.5"
   },
   {
     "id": "0010",
     "customer": "frank",
     "date": [2025,1,11],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"soda": 16, "milk": 12},
+    "transaction_duration": "9.5"
   },
   {
     "id": "0011",
     "customer": "steve",
     "date": [2025,1,11],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"tomato": 6, "beans": 2, "onion": 6},
+    "transaction_duration": "9.5"
   },
   {
     "id": "0012",
     "customer": "frank",
     "date": [2025,1,11],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"pepper": 6, "strawberry": 12},
+    "transaction_duration": "2.5"
   },
   {
     "id": "0013",
     "customer": "steve",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"strawberry": 16, "soda": 12, "carrot": 4, "eggplant": 6, "mochi": 3},
+    "transaction_duration": "15.5"
   },
   {
     "id": "0014",
     "customer": "martha",
     "date": [2025,1,12],
     "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "transaction_duration": "8.5"
   },
   {
     "id": "0015",
     "customer": "samantha",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"mochi": 6, "milk": 2},
+    "transaction_duration": "5.5"
   },
   {
     "id": "0001",
     "customer": "suzy",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"soda": 10, "milk": 2},
+    "transaction_duration": "2.5"
   },
   {
     "id": "0016",
     "customer": "sam",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"apple": 6, "milk": 2, "beans": 2, "onion": 6},
+    "transaction_duration": "10.5"
   },
   {
     "id": "0017",
     "customer": "star",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"apple": 4, "milk": 2},
+    "transaction_duration": "2.5"
   },
   {
     "id": "0018",
     "customer": "bob",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"onion": 6, "carrot": 2},
+    "transaction_duration": "3.5"
   },
   {
     "id": "0019",
     "customer": "mercy",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"mochi": 6, "eggplant": 2},
+    "transaction_duration": "6.5"
   },
   {
     "id": "0020",
     "customer": "martha",
     "date": [2025,1,12],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"apple": 6, "milk": 2},
+    "transaction_duration": "1.5"
   },
   {
     "id": "0021",
     "customer": "steve",
     "date": [2025,1,13],
-    "quantities": { "apple": 6, "milk": 2},
+    "quantities": {"strawberry": 10, "soda": 10, "carrot": 6, "eggplant": 3, "mochi": 3},
     "transaction_duration": "12.5"
   },
   {
     "id": "0022",
     "customer": "bruce",
     "date": [2025,1,13],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"apple": 6, "milk": 2, "eggplant": 5},
+    "transaction_duration": "7.5"
   },
   {
     "id": "0023",
     "customer": "mick",
     "date": [2025,1,14],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"carrot": 6, "soda": 2},
+    "transaction_duration": "3"
   },
   {
     "id": "0024",
     "customer": "mia",
     "date": [2025,1,15],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"apple": 6, "milk": 2, "onion": 10, "carrot": 13},
+    "transaction_duration": "6.5"
   },
   {
     "id": "0025",
     "customer": "suzy",
     "date": [2025,1,15],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"beans": 2, "onion": 6},
+    "transaction_duration": "2"
   },
   {
     "id": "0026",
     "customer": "bruce",
     "date": [2025,1,18],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": {"carrot": 6, "beans": 12, "onion": 6, "apple": 8, "milk": 4},
+    "transaction_duration": "10"
   },
   {
     "id": "0027",
     "customer": "frank",
     "date": [2025,1,18],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": { "apple": 6, "onion": 10, "carrot": 13, "milk": 2},
+    "transaction_duration": "7"
   },
   {
     "id": "0028",
     "customer": "mick",
     "date": [2025,1,18],
-    "quantities": { "apple": 6, "milk": 2},
-    "transaction_duration": "12.5"
+    "quantities": { "apple": 6, "milk": 2, "carrot": 6, "beans": 2, "onion": 6},
+    "transaction_duration": "9"
   }
 ]
