@@ -14,7 +14,7 @@
     "max_quantity": 5
   },
   {
-    "item": "oranges",
+    "item": "orange",
     "category": "fruit",
     "quantity": 400,
     "unit_cost": 0.05,
