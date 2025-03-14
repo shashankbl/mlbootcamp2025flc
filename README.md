@@ -16,8 +16,8 @@
 | Week | Lessons | Classroom | Take-home | Project |
 |----|----|----|----|----|
 | Week-4 | Data Science | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/4_DataScience_Intro.ipynb) | [Take-home](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/4_DataScience_TakeHome.ipynb) | - |
-| Week-5 | Ethics of Data Science & Machine Learning | [Classroom]() | [Take-home]() | - |
-| Week-6 | Traditional Machine Learning | [Classroom]() | [Take-home]() | - |
+| Week-5 | Ethics of Data Science & Machine Learning | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/5_GettingStartedWithDataScience_EthicsOfDSML.ipynb) | - | - |
+| Week-6 | Traditional Machine Learning | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/6_MachineLearning_Intro.ipynb) | [Take-home]() | - |
 | Week-7 | Mini Project | - | - | [Project]() |
 
 
