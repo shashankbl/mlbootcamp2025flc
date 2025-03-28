@@ -24,9 +24,8 @@
 ### Part 3: Advanced Machine Learning (aka Deep Learning)
 | Week | Lessons | Classroom | Take-home | Project |
 |----|----|----|----|----|
-| Week-8 | Getting started with Deep Neural Networks | [Classroom]() | [Take-home]() | - |
-| Week-9 | More Deep Neural Networks | [Classroom]() | [Take-home]() | - |
-| Final Project | TBA | - | - | [Project]() |
+| Week-8 | Getting started with Deep Neural Networks | [Classroom]() | -| [Project]() |
+| Final Project | "Demo Day" | - | - | - |
 
 
 Additional resources for the serious learner (work-in-progress):
