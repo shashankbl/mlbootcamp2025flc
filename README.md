@@ -24,7 +24,7 @@
 ### Part 3: Advanced Machine Learning (aka Deep Learning)
 | Week | Lessons | Classroom | Take-home | Project |
 |----|----|----|----|----|
-| Week-8 | Getting started with Deep Neural Networks | [Classroom]() | -| [Project]() |
+| Week-8 | Getting started with Deep Neural Networks | [Classroom](https://github.com/shashankbl/mlbootcamp2025flc/blob/main/8_DeepLearning_ClassificationTask.ipynb) | -| [Project]() |
 | Final Project | "Demo Day" | - | - | - |
 
 
